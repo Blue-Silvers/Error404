@@ -14,21 +14,39 @@ https://docs.google.com/document/d/1X3vwREH0bXy_EKu0TZKbNZFR7eVN4xXJgzZOADk32ig/
 
 ## Mission exemples :
 
-
+- Quest chain
+  
 https://github.com/user-attachments/assets/adb75cf2-c539-490f-907a-adbf196e6383
 
 
 - Find NPC
   
-  ![image](https://github.com/user-attachments/assets/495c9a58-1286-4bf0-9b48-2385438af91a)
+
+https://github.com/user-attachments/assets/c2faacfb-a882-4a6d-9050-92dec720f2d6
+
+
+ ![image](https://github.com/user-attachments/assets/ee33fe2e-e905-494a-a5bc-b6b5df8a8541)
+
 
 - Find Item
-  
-  ![image](https://github.com/user-attachments/assets/81f8d66f-a3f8-408b-9eb9-86b43076ff5a)
+
+
+https://github.com/user-attachments/assets/e71fa845-eae6-4cd6-a78f-152edbc0de8c
+
+
+  ![image](https://github.com/user-attachments/assets/32296d01-a5c2-4abf-aba6-bbe673ef03a1)
+
 
 - Kill enemies
+
+
+https://github.com/user-attachments/assets/d01bdf60-ef2c-4f72-bb04-75190dfb2b29
+
+
+
   
-  ![image](https://github.com/user-attachments/assets/cf34fd49-f2b7-43f8-aeab-9735a1bc5bc5)
+![image](https://github.com/user-attachments/assets/38443631-25f5-4d5d-9eba-b3dc3792849d)
+
 
 # Inventory :
 
