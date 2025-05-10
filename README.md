@@ -1,6 +1,9 @@
 # GDD :
 https://docs.google.com/document/d/1X3vwREH0bXy_EKu0TZKbNZFR7eVN4xXJgzZOADk32ig/edit?usp=drive_link
 
+# Build :
+https://github.com/Blue-Silvers/Error404/releases/tag/V1
+
 # Controls :
 - ZQSD → Movement
 - Space → Jump
