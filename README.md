@@ -4,6 +4,15 @@ https://docs.google.com/document/d/1X3vwREH0bXy_EKu0TZKbNZFR7eVN4xXJgzZOADk32ig/
 # Build :
 https://github.com/Blue-Silvers/Error404/releases/tag/V1
 
+# Team :
+- Enzo Lahana
+- Léo Baptiste
+- Mathis Perot
+- Omid Esmaily marandi
+
+# Video :
+https://drive.google.com/drive/folders/164KJ4dXeufuoJVcyf2G12n3Crn3uTmgT
+
 # Controls :
 - ZQSD → Movement
 - Space → Jump
